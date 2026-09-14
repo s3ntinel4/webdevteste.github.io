@@ -37,8 +37,8 @@ The project consist in my first use of CI/CD using GitHub Actions.
 
 ## Social Medias
 
-- [LinkedIn](https://www.linkedin.com/in/carloshenrique-blueteamsecurity/)
+- [LinkedIn](https://www.linkedin.com/in/carloshenrique-devopsandqa/)
 - [GitHub](https://github.com/s3ntinel4)
 - [Instagram](https://www.instagram.com/s3ntinel.devops)
 
-&copy; 2024 [Carlos Henrique]. All rights reserved.
+&copy; 2026 [Carlos Henrique]. All rights reserved.
